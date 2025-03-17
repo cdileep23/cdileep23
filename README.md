@@ -53,6 +53,7 @@
 </p>
 
 <h3 align="left">Projects:</h3>
+
 - **WeConnect45**: Real-Time Social Connection Platform
   - Developed a MERN stack application enabling users to connect with random people, send requests, and chat upon mutual acceptance.
   - Architected real-time communication using Socket.io, slashing message delivery time by 90%.
