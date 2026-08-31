@@ -3,13 +3,13 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dileep45.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dileepkumarc003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dileepkumarc003/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cdileep23)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cdileepkumar22@gmail.com)
 
 </div>
 
-<p align="center"><b>⚡ Full Stack Engineer | 🔍 AI Evaluation & Observability | 🌐 Open Source Contributor</b></p>
+<p align="center"><b>⚡ Full Stack Engineer</b></p>
 
 ---
 
@@ -17,17 +17,11 @@
 
 <table>
 <tr>
-  <td width="50%">
+  <td>
     <h4>🧠 Future AGI</h4>
     <i>Full Stack Engineer · Aug 2025 – Present</i><br>
-    Shipping an LLM evaluation & observability platform — React and
-    TypeScript surfaces over a Django + ClickHouse backend
-  </td>
-  <td width="50%">
-    <h4>🌍 future-agi <sub>(Open Source)</sub></h4>
-    <i>Contributor · Apache 2.0 · 1.9k ⭐</i><br>
-    237 commits to the public platform for tracing, evaluating and
-    improving LLM and agent applications
+    Building and shipping product across the stack — React and TypeScript
+    interfaces backed by Django, PostgreSQL and ClickHouse
   </td>
 </tr>
 </table>
@@ -88,18 +82,10 @@
 ## 🎯 Highlights
 
 - 🔥 **2,000+ commits** shipped across the Future AGI organization in the past year
-- 🌟 **237 commits** to a **1.9k-star** Apache-2.0 open-source AI platform
 - 🧩 Full-stack by practice — the same feature owned from React component through to the serializer
 - ⚡ Performance-minded: ISR + edge caching, query tuning, and sub-300 ms API responses in production side projects
+- 🗄️ Comfortable across relational and document stores — PostgreSQL, MySQL, MongoDB and ClickHouse
 - 📚 **95+ repositories** built while learning, from MERN apps to Django ORM internals
-
----
-
-## 📖 Currently Writing
-
-Reference notes on backend fundamentals — written to be re-read, not skimmed:
-
-`HTTP semantics & caching` · `Routing & API design` · `Serialization formats` · `DSA with complexity analysis`
 
 ---
 
@@ -109,26 +95,3 @@ Reference notes on backend fundamentals — written to be re-read, not skimmed:
 VIT-AP University, Amaravati | 2021 – 2025
 
 **Relevant coursework** — Data Structures & Algorithms · Operating Systems · DBMS · OOP · Software Engineering
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cdileep23&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdileep23&layout=compact&hide_border=true&langs_count=6&theme=tokyonight" alt="languages" height="165" />
-</div>
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cdileep23&theme=tokyo-night)
-
----
-
-<div align="center">
-
-🛠️ *Open to collaboration on developer tooling & AI infrastructure*
-
-💬 *Always up for a conversation about API design and why your CORS request is failing*
-
-</div>
