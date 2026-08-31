@@ -45,7 +45,7 @@
   </td>
   <td width="50%">
     <h4><a href="https://github.com/cdileep23/paftoXml-client">📄 PDF-to-XML Platform</a></h4>
-    AI document processor handling <b>500+ monthly conversions at 92%
+    AI document processor converting PDFs to structured XML at <b>92%
     accuracy</b>, with live progress over Socket.io and <b>40% lower</b>
     storage cost on S3<br>
     <i>React · Node.js · MongoDB · AWS S3 · OpenRouter (DeepSeek R1)</i>
