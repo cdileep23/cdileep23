@@ -19,9 +19,18 @@
 <tr>
   <td>
     <h4>🧠 Future AGI</h4>
-    <i>Full Stack Engineer · Aug 2025 – Present</i><br>
-    Building and shipping product across the stack — React and TypeScript
-    interfaces backed by Django, PostgreSQL and ClickHouse
+    <sub>Aug 2025 to Present</sub>
+    <br><br>
+    <b>🟢 Full Stack Engineer</b><br>
+    <sub>&nbsp;&nbsp;│&nbsp;&nbsp; Owning features end to end. React and TypeScript on the
+    surface, Django and ClickHouse underneath.</sub>
+    <br><br>
+    <b>⚪ Frontend Developer</b><br>
+    <sub>&nbsp;&nbsp;│&nbsp;&nbsp; Converted to full time. Shipped product UI, dark theme
+    correctness, and data heavy dashboards.</sub>
+    <br><br>
+    <b>⚪ Frontend Intern</b><br>
+    <sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Started here in August 2025.</sub>
   </td>
 </tr>
 </table>
@@ -34,9 +43,9 @@
 <tr>
   <td width="50%">
     <h4><a href="https://github.com/cdileep23/Socially45">👥 Socially</a></h4>
-    Full-stack social network — posts, follows and real-time notifications.
-    <b>70% faster rendering</b> via ISR + edge caching, <b>300 ms</b> API
-    responses, PostgreSQL schema tuned for <b>40% lower query times</b><br>
+    Full-stack social network with posts, follows and real-time notifications.
+    <b>70% faster rendering</b> via ISR and edge caching, <b>300 ms</b> API
+    responses, and a PostgreSQL schema tuned for <b>40% lower query times</b><br>
     <i>Next.js 14 · TypeScript · Prisma · NeonDB · Clerk</i>
   </td>
   <td width="50%">
@@ -50,15 +59,15 @@
 <tr>
   <td width="50%">
     <h4><a href="https://github.com/cdileep23/weconnect45client">💬 WeConnect45</a></h4>
-    Real-time connection platform — <b>90% lower message latency</b> for 100+
-    concurrent users, mutual-consent chat that cut unwanted messages by
-    <b>65%</b>, deployed on EC2 for <b>1,000+</b> active connections<br>
+    Real-time connection platform with <b>90% lower message latency</b> for 100+
+    concurrent users. Mutual-consent chat cut unwanted messages by <b>65%</b>,
+    deployed on EC2 for <b>1,000+</b> active connections<br>
     <i>MERN · Socket.io · Redux · AWS EC2 & SES</i>
   </td>
   <td width="50%">
     <h4><a href="https://github.com/cdileep23/wefit">🏋️ WeFit45</a></h4>
     Fitness and workout tracker with exercise history, progress analytics and
-    curated tutorial playlists — <b>70% better retention</b>, <b>40% faster</b>
+    curated tutorial playlists. <b>70% better retention</b> and <b>40% faster</b>
     navigation<br>
     <i>MERN · MUI x-charts · JWT</i>
   </td>
@@ -82,16 +91,16 @@
 ## 🎯 Highlights
 
 - 🔥 **2,000+ commits** shipped across the Future AGI organization in the past year
-- 🧩 Full-stack by practice — the same feature owned from React component through to the serializer
-- ⚡ Performance-minded: ISR + edge caching, query tuning, and sub-300 ms API responses in production side projects
-- 🗄️ Comfortable across relational and document stores — PostgreSQL, MySQL, MongoDB and ClickHouse
-- 📚 **95+ repositories** built while learning, from MERN apps to Django ORM internals
+- 📈 Grew from **intern to frontend developer to full stack** inside twelve months
+- 🧩 Full-stack by practice: the same feature owned from React component through to the serializer
+- ⚡ Performance minded, with ISR and edge caching, query tuning, and sub-300 ms API responses in production side projects
+- 🗄️ Comfortable across relational and document stores: PostgreSQL, MySQL, MongoDB and ClickHouse
 
 ---
 
 ## 🎓 Education
 
 **B.Tech in Computer Science and Engineering** · CGPA 8.2
-VIT-AP University, Amaravati | 2021 – 2025
+VIT-AP University, Amaravati | 2021 to 2025
 
-**Relevant coursework** — Data Structures & Algorithms · Operating Systems · DBMS · OOP · Software Engineering
+**Relevant coursework:** Data Structures & Algorithms · Operating Systems · DBMS · OOP · Software Engineering
