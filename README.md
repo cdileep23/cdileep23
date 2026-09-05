@@ -13,37 +13,6 @@
 
 ---
 
-## 🏢 Where I Work
-
-<table width="100%">
-<tr>
-  <td colspan="3">
-    <h3>🧠 Future AGI &nbsp;&nbsp;<sub>Aug 2025 to Present</sub></h3>
-  </td>
-</tr>
-<tr align="center" valign="top">
-  <td width="33%">
-    <b>⚪ Frontend Intern</b><br>
-    <sub>where it started</sub>
-  </td>
-  <td width="33%">
-    <b>⚪ Frontend Developer</b><br>
-    <sub>promoted</sub>
-  </td>
-  <td width="33%">
-    <b>🟢 Full Stack Engineer</b><br>
-    <sub>current role</sub>
-  </td>
-</tr>
-<tr align="center">
-  <td colspan="3">
-    <sub>One company, three titles: intern to owning features end to end.</sub>
-  </td>
-</tr>
-</table>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
